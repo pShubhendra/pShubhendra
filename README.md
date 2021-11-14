@@ -4,7 +4,7 @@ I am Shubhendra Pandey, I love to learn New Skills & Languages.I also enjoy play
 
 Skills: MySql / C / R / HTML / CSS / C++ / Python / Android Development
 
-- 🔭 I’m currently working on Imporving My Coding Skills. 
+- 🔭 I’m currently working on Improving My Coding Skills. 
 - 🌱 I’m currently learning Full Stack & Tools :Bootstrap4 
 - ⚡ Fun fact: I love to learn new things, and I embrace my inner nerd 
 
